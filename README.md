@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a deep learning model called "VaDER" (https://github.com/yalchik/VaDER) that can cluster patients data.
+- 👯 I’m looking to collaborate on AI projects related to bio-, med-, pharma-, chemo- industries.
